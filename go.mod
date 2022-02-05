@@ -1,4 +1,4 @@
-module github.com/mikkeloscar/sshconfig
+module github.com/quantumsheep/sshconfig
 
 go 1.16
 
